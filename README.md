@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on developing a clip-sharing platform
+- 🌱 I’m currently learning React and TypeScript
+- 👯 I’m looking to collaborate on full-stack, data analytics and gaming projects
+- 🤔 I’m looking for help with additional features and an icon for my WaniKani extension
+- 💬 Ask me about gaming and coding
+- 📫 How to reach me: ericolebusiness@gmail.com
+- ⚡ Fun fact: learning Japanese in my freee time
+
 <!--
 **eric1216/eric1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
