@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on developing a clip-sharing platform
+- 🔭 I’m currently working on developing a local video-storage application
 - 🌱 I’m currently learning React and TypeScript
 - 👯 I’m looking to collaborate on full-stack, data analytics and gaming projects
 - 🤔 I’m looking for help with additional features and an icon for my WaniKani extension
